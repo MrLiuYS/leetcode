@@ -27,3 +27,18 @@ class Solution {
         return newHead
     }
 }
+
+var solution = Solution()
+
+var node0 = Solution.ListNode(1)
+var node1 = Solution.ListNode(2)
+var node2 = Solution.ListNode(3)
+var node3 = Solution.ListNode(4)
+var node4 = Solution.ListNode(5)
+
+node0.next = node1
+node1.next = node2
+node2.next = node3
+node3.next = node4
+
+solution.reverseList(node0);
