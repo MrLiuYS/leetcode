@@ -1,7 +1,9 @@
 /*
  https://leetcode-cn.com/problems/linked-list-cycle/
+ 判断是否有环.使用快慢指针
  */
 import UIKit
+
 
 class Solution {
     
@@ -33,3 +35,20 @@ class Solution {
         
     }
 }
+
+var solution = Solution()
+
+var node0 = Solution.ListNode(3)
+var node1 = Solution.ListNode(2)
+var node2 = Solution.ListNode(0)
+var node3 = Solution.ListNode(-4)
+
+node0.next = node1
+node1.next = node2
+node2.next = node3
+node3.next = node1
+
+solution.hasCycle(node0);
+
+
+
