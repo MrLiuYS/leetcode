@@ -5,6 +5,9 @@
       location = "container:"
       name = "&#x94fe;&#x8868;">
       <FileRef
+         location = "group:832.&#x7ffb;&#x8f6c;&#x56fe;&#x50cf;.playground">
+      </FileRef>
+      <FileRef
          location = "group:/Users/mrliuys/Documents/sourcetree/leetcode/141. &#x73af;&#x5f62;&#x94fe;&#x8868;(&#x2705;).playground">
       </FileRef>
       <FileRef
@@ -27,6 +30,9 @@
       </FileRef>
       <FileRef
          location = "group:1052. &#x7231;&#x751f;&#x6c14;&#x7684;&#x4e66;&#x5e97;&#x8001;&#x677f;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:867. &#x8f6c;&#x7f6e;&#x77e9;&#x9635;.playground">
       </FileRef>
    </Group>
 </Workspace>
