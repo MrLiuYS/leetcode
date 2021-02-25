@@ -4,11 +4,19 @@
 ///
 class Solution {
   List<List<int>> flipAndInvertImage(List<List<int>> A) {
-    return [
-      [1, 0, 0],
-      [0, 1, 0],
-      [1, 1, 1]
-    ];
+    var result = List<List<int>>();
+
+    for (var i = 0; i < A.length; i++) {
+      var items = List<int>();
+
+      for (var j = A[i].length - 1; j >= 0; j--) {
+        items.add(1 - A[i][j]);
+      }
+
+      result.add(items);
+    }
+
+    return result;
   }
 }
 
