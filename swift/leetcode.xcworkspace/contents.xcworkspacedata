@@ -47,5 +47,8 @@
       <FileRef
          location = "group:896.&#x5355;&#x8c03;&#x6570;&#x5217;.playground">
       </FileRef>
+      <FileRef
+         location = "group:171. Excel &#x8868;&#x5217;&#x5e8f;&#x53f7;.playground">
+      </FileRef>
    </Group>
 </Workspace>
