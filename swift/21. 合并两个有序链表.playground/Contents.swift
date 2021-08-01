@@ -53,3 +53,8 @@ while node != nil || node?.next != nil {
     print(node?.val)
     node = node?.next
 }
+
+print("---------------")
+
+
+// print(Solution().mergeTwoLists(lista_1, listb_1))
