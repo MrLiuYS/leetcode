@@ -12,6 +12,9 @@
       location = "container:"
       name = "&#x94fe;&#x8868;">
       <FileRef
+         location = "group:387. &#x5b57;&#x7b26;&#x4e32;&#x4e2d;&#x7684;&#x7b2c;&#x4e00;&#x4e2a;&#x552f;&#x4e00;&#x5b57;&#x7b26;.playground">
+      </FileRef>
+      <FileRef
          location = "group:7. &#x6574;&#x6570;&#x53cd;&#x8f6c;.playground">
       </FileRef>
       <FileRef
