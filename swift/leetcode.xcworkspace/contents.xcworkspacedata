@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "&#x5251;&#x6307; Offer">
+      <FileRef
+         location = "group:&#x5251;&#x6307; Offer 67. &#x628a;&#x5b57;&#x7b26;&#x4e32;&#x8f6c;&#x6362;&#x6210;&#x6574;&#x6570;.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "&#x521d;&#x7ea7;&#x7b97;&#x6cd5;">
       <FileRef
          location = "group:&#x6570;&#x7ec4;.playground">
@@ -11,6 +18,9 @@
    <Group
       location = "container:"
       name = "&#x94fe;&#x8868;">
+      <FileRef
+         location = "group:8. &#x5b57;&#x7b26;&#x4e32;&#x8f6c;&#x6362;&#x6574;&#x6570; (atoi).playground">
+      </FileRef>
       <FileRef
          location = "group:125. &#x9a8c;&#x8bc1;&#x56de;&#x6587;&#x4e32;.playground">
       </FileRef>
