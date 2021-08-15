@@ -333,6 +333,27 @@
 			<key>orderHint</key>
 			<integer>13</integer>
 		</dict>
+		<key>283. 移动零 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
+		<key>283. 移动零 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>283. 移动零 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
 		<key>344. 反转字符串 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
