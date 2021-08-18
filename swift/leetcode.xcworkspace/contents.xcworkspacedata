@@ -13,6 +13,13 @@
       name = "&#x521d;&#x7ea7;&#x7b97;&#x6cd5;">
       <Group
          location = "container:"
+         name = "&#x6570;&#x5b66;">
+         <FileRef
+            location = "group:412. Fizz Buzz.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
          name = "&#x6811;">
          <FileRef
             location = "group:104. &#x4e8c;&#x53c9;&#x6811;&#x7684;&#x6700;&#x5927;&#x6df1;&#x5ea6;.playground">
