@@ -3,6 +3,17 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "&#x6570;&#x7ec4;&#x548c;&#x5b57;&#x7b26;&#x4e32;">
+      <Group
+         location = "container:"
+         name = "&#x6570;&#x7ec4;&#x7b80;&#x4ecb;">
+         <FileRef
+            location = "group:724. &#x5bfb;&#x627e;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x5fc3;&#x4e0b;&#x6807;.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
       name = "&#x5251;&#x6307; Offer">
       <Group
          location = "container:"
