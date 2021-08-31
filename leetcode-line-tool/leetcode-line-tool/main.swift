@@ -9,3 +9,11 @@ import Foundation
 
 print("Hello, World!")
 
+struct Person {
+    var name: String {
+        willSet {
+//            print(newValue)
+//            print($0)
+        }
+    }
+}
