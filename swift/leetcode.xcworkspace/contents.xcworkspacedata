@@ -25,6 +25,9 @@
          location = "container:"
          name = "day3">
          <FileRef
+            location = "group:&#x5251;&#x6307; Offer 58 - II. &#x5de6;&#x65cb;&#x8f6c;&#x5b57;&#x7b26;&#x4e32;.playground">
+         </FileRef>
+         <FileRef
             location = "group:&#x5251;&#x6307; Offer 05. &#x66ff;&#x6362;&#x7a7a;&#x683c;.playground">
          </FileRef>
       </Group>
@@ -208,9 +211,6 @@
       </FileRef>
       <FileRef
          location = "group:867. &#x8f6c;&#x7f6e;&#x77e9;&#x9635;.playground">
-      </FileRef>
-      <FileRef
-         location = "group:&#x5251;&#x6307; Offer 58 - II. &#x5de6;&#x65cb;&#x8f6c;&#x5b57;&#x7b26;&#x4e32;.playground">
       </FileRef>
       <FileRef
          location = "group:896.&#x5355;&#x8c03;&#x6570;&#x5217;.playground">
