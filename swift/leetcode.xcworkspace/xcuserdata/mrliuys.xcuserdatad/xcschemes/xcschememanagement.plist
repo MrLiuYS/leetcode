@@ -1068,6 +1068,27 @@
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
+		<key>5. 最长回文子串 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>73</integer>
+		</dict>
+		<key>5. 最长回文子串 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>74</integer>
+		</dict>
+		<key>5. 最长回文子串 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>72</integer>
+		</dict>
 		<key>53. 最大子序和 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
