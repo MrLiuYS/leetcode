@@ -4,29 +4,24 @@
    <Group
       location = "container:"
       name = "&#x6570;&#x7ec4;&#x548c;&#x5b57;&#x7b26;&#x4e32;">
-      <Group
-         location = "container:"
-         name = "&#x5b57;&#x7b26;&#x4e32;&#x7b80;&#x4ecb;">
-         <FileRef
-            location = "group:5. &#x6700;&#x957f;&#x56de;&#x6587;&#x5b50;&#x4e32;.playground">
-         </FileRef>
-         <FileRef
-            location = "group:151. &#x7ffb;&#x8f6c;&#x5b57;&#x7b26;&#x4e32;&#x91cc;&#x7684;&#x5355;&#x8bcd;.playground">
-         </FileRef>
-      </Group>
-      <Group
-         location = "container:"
-         name = "&#x6570;&#x7ec4;&#x7b80;&#x4ecb;">
-         <FileRef
-            location = "group:724. &#x5bfb;&#x627e;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x5fc3;&#x4e0b;&#x6807;.playground">
-         </FileRef>
-         <FileRef
-            location = "group:35. &#x641c;&#x7d22;&#x63d2;&#x5165;&#x4f4d;&#x7f6e;.playground">
-         </FileRef>
-         <FileRef
-            location = "group:56. &#x5408;&#x5e76;&#x533a;&#x95f4;.playground">
-         </FileRef>
-      </Group>
+      <FileRef
+         location = "group:5. &#x6700;&#x957f;&#x56de;&#x6587;&#x5b50;&#x4e32;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:151. &#x7ffb;&#x8f6c;&#x5b57;&#x7b26;&#x4e32;&#x91cc;&#x7684;&#x5355;&#x8bcd;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:724. &#x5bfb;&#x627e;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x5fc3;&#x4e0b;&#x6807;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:35. &#x641c;&#x7d22;&#x63d2;&#x5165;&#x4f4d;&#x7f6e;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:56. &#x5408;&#x5e76;&#x533a;&#x95f4;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:561. &#x6570;&#x7ec4;&#x62c6;&#x5206; I.playground">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
