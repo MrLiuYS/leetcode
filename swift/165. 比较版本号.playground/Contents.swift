@@ -6,6 +6,8 @@ import UIKit
 
 class Solution {
     func compareVersion(_ version1: String, _ version2: String) -> Int {
+        var nas : Array<String> = ["1"]
+        nas += ["aaaa"]
         let arr1 = version1.components(separatedBy: ".")
         let arr2 = version2.components(separatedBy: ".")
         
