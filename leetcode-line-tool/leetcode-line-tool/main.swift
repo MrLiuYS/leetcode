@@ -9,11 +9,26 @@ import Foundation
 
 print("Hello, World!")
 
-struct Person {
-    var name: String {
-        willSet {
-//            print(newValue)
-//            print($0)
-        }
-    }
-}
+var num1 : Int? = 5
+num1? = 10
+
+
+var num3: Int? = nil
+var num2 : Int?? = num3
+num2? = 10
+
+
+var num4 : Int?? = nil
+num4? =  10
+
+print(num1 , num2 , num4)
+
+
+//struct Person {
+//    var name: String {
+//        willSet {
+////            print(newValue)
+////            print($0)
+//        }
+//    }
+//}
