@@ -1558,6 +1558,27 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>剑指 Offer 04. 二维数组中的查找 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>79</integer>
+		</dict>
+		<key>剑指 Offer 04. 二维数组中的查找 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>80</integer>
+		</dict>
+		<key>剑指 Offer 04. 二维数组中的查找 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>78</integer>
+		</dict>
 		<key>剑指 Offer 05. 替换空格 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
