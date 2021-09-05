@@ -1166,6 +1166,27 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>470. 用 Rand7() 实现 Rand10() (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>98</integer>
+		</dict>
+		<key>470. 用 Rand7() 实现 Rand10() (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>99</integer>
+		</dict>
+		<key>470. 用 Rand7() 实现 Rand10() (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>97</integer>
+		</dict>
 		<key>48. 旋转图像 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -1830,6 +1851,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>91</integer>
+		</dict>
+		<key>剑指 Offer 28. 对称的二叉树 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>95</integer>
+		</dict>
+		<key>剑指 Offer 28. 对称的二叉树 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>96</integer>
+		</dict>
+		<key>剑指 Offer 28. 对称的二叉树 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>94</integer>
 		</dict>
 		<key>剑指 Offer 30. 包含min函数的栈 (Playground) 1.xcscheme</key>
 		<dict>
