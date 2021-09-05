@@ -1810,6 +1810,27 @@
 			<key>orderHint</key>
 			<integer>88</integer>
 		</dict>
+		<key>剑指 Offer 27. 二叉树的镜像 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>92</integer>
+		</dict>
+		<key>剑指 Offer 27. 二叉树的镜像 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>93</integer>
+		</dict>
+		<key>剑指 Offer 27. 二叉树的镜像 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>91</integer>
+		</dict>
 		<key>剑指 Offer 30. 包含min函数的栈 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
