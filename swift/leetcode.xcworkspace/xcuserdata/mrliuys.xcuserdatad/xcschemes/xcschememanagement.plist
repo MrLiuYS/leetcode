@@ -1752,14 +1752,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>86</integer>
+			<integer>93</integer>
 		</dict>
 		<key>剑指 Offer 10- I. 斐波那契数列 (Playground) 2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>87</integer>
+			<integer>94</integer>
+		</dict>
+		<key>剑指 Offer 10- I. 斐波那契数列 (Playground) 3.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>95</integer>
 		</dict>
 		<key>剑指 Offer 10- I. 斐波那契数列 (Playground).xcscheme</key>
 		<dict>
