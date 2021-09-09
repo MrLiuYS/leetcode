@@ -379,7 +379,10 @@
          location = "group:1221. &#x5206;&#x5272;&#x5e73;&#x8861;&#x5b57;&#x7b26;&#x4e32;.playground">
       </FileRef>
       <FileRef
-         location = "group:502. IPO.playground">
+         location = "group:/Users/mrliuys/Documents/github/leetcode/swift/502. IPO&#x274e;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/mrliuys/Documents/github/leetcode/swift/68. &#x6587;&#x672c;&#x5de6;&#x53f3;&#x5bf9;&#x9f50;&#x274e;.playground">
       </FileRef>
    </Group>
 </Workspace>

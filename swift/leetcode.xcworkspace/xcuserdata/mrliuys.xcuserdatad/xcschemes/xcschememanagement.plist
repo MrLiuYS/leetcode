@@ -1299,6 +1299,27 @@
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
+		<key>502. IPO❎ (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>102</integer>
+		</dict>
+		<key>502. IPO❎ (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>103</integer>
+		</dict>
+		<key>502. IPO❎ (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>101</integer>
+		</dict>
 		<key>53. 最大子序和 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -1389,6 +1410,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>14</integer>
+		</dict>
+		<key>68. 文本左右对齐 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>105</integer>
+		</dict>
+		<key>68. 文本左右对齐 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>106</integer>
+		</dict>
+		<key>68. 文本左右对齐 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>104</integer>
 		</dict>
 		<key>7. 整数反转 (Playground) 1.xcscheme</key>
 		<dict>
