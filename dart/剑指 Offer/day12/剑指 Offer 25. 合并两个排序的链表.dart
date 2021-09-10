@@ -42,7 +42,7 @@ main(List<String> args) {
   var nodeb2 = ListNode(3);
   var nodeb3 = ListNode(4);
   nodeb1.next = nodeb2;
-  nodeb2 = nodeb3;
+  nodeb2.next = nodeb3;
 
   var node = Solution().mergeTwoLists(nodea1, nodeb1);
 
