@@ -384,5 +384,8 @@
       <FileRef
          location = "group:/Users/mrliuys/Documents/github/leetcode/swift/68. &#x6587;&#x672c;&#x5de6;&#x53f3;&#x5bf9;&#x9f50;&#x274e;.playground">
       </FileRef>
+      <FileRef
+         location = "group:1894. &#x627e;&#x5230;&#x9700;&#x8981;&#x8865;&#x5145;&#x7c89;&#x7b14;&#x7684;&#x5b66;&#x751f;&#x7f16;&#x53f7;.playground">
+      </FileRef>
    </Group>
 </Workspace>
