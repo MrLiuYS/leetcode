@@ -1999,6 +1999,27 @@
 			<key>orderHint</key>
 			<integer>43</integer>
 		</dict>
+		<key>剑指 Offer 25. 合并两个排序的链表 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>104</integer>
+		</dict>
+		<key>剑指 Offer 25. 合并两个排序的链表 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>105</integer>
+		</dict>
+		<key>剑指 Offer 25. 合并两个排序的链表 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>103</integer>
+		</dict>
 		<key>剑指 Offer 26. 树的子结构 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
