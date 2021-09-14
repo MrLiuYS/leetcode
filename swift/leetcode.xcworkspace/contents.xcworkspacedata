@@ -44,6 +44,9 @@
          <FileRef
             location = "group:&#x5251;&#x6307; Offer 45. &#x628a;&#x6570;&#x7ec4;&#x6392;&#x6210;&#x6700;&#x5c0f;&#x7684;&#x6570;.playground">
          </FileRef>
+         <FileRef
+            location = "group:&#x5251;&#x6307; Offer 61. &#x6251;&#x514b;&#x724c;&#x4e2d;&#x7684;&#x987a;&#x5b50;.playground">
+         </FileRef>
       </Group>
       <Group
          location = "container:"
