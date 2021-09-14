@@ -2454,6 +2454,27 @@
 			<key>orderHint</key>
 			<integer>53</integer>
 		</dict>
+		<key>剑指 Offer 54. 二叉搜索树的第k大节点 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>112</integer>
+		</dict>
+		<key>剑指 Offer 54. 二叉搜索树的第k大节点 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>113</integer>
+		</dict>
+		<key>剑指 Offer 54. 二叉搜索树的第k大节点 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>111</integer>
+		</dict>
 		<key>剑指 Offer 57. 和为s的两个数字 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
