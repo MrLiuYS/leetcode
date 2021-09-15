@@ -2293,6 +2293,27 @@
 			<key>orderHint</key>
 			<integer>112</integer>
 		</dict>
+		<key>剑指 Offer 41. 数据流中的中位数 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>116</integer>
+		</dict>
+		<key>剑指 Offer 41. 数据流中的中位数 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>117</integer>
+		</dict>
+		<key>剑指 Offer 41. 数据流中的中位数 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>115</integer>
+		</dict>
 		<key>剑指 Offer 42. 连续子数组的最大和 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
