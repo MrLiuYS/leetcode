@@ -1992,6 +1992,27 @@
 			<key>orderHint</key>
 			<integer>89</integer>
 		</dict>
+		<key>剑指 Offer 14- I. 剪绳子 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>124</integer>
+		</dict>
+		<key>剑指 Offer 14- I. 剪绳子 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>125</integer>
+		</dict>
+		<key>剑指 Offer 14- I. 剪绳子 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>123</integer>
+		</dict>
 		<key>剑指 Offer 15. 二进制中1的个数 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -2622,6 +2643,27 @@
 			<key>orderHint</key>
 			<integer>17</integer>
 		</dict>
+		<key>剑指 Offer 57 - II. 和为s的连续正数序列 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>127</integer>
+		</dict>
+		<key>剑指 Offer 57 - II. 和为s的连续正数序列 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>128</integer>
+		</dict>
+		<key>剑指 Offer 57 - II. 和为s的连续正数序列 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>126</integer>
+		</dict>
 		<key>剑指 Offer 57. 和为s的两个数字 (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -2712,6 +2754,27 @@
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>剑指 Offer 62. 圆圈中最后剩下的数字 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>130</integer>
+		</dict>
+		<key>剑指 Offer 62. 圆圈中最后剩下的数字 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>131</integer>
+		</dict>
+		<key>剑指 Offer 62. 圆圈中最后剩下的数字 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>129</integer>
 		</dict>
 		<key>剑指 Offer 63. 股票的最大利润 (Playground) 1.xcscheme</key>
 		<dict>

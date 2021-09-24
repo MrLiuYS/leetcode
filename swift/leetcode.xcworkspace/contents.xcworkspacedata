@@ -40,6 +40,19 @@
       name = "&#x5251;&#x6307; Offer">
       <Group
          location = "container:"
+         name = "day24">
+         <FileRef
+            location = "group:&#x5251;&#x6307; Offer 14- I. &#x526a;&#x7ef3;&#x5b50;.playground">
+         </FileRef>
+         <FileRef
+            location = "group:&#x5251;&#x6307; Offer 57 - II. &#x548c;&#x4e3a;s&#x7684;&#x8fde;&#x7eed;&#x6b63;&#x6570;&#x5e8f;&#x5217;.playground">
+         </FileRef>
+         <FileRef
+            location = "group:&#x5251;&#x6307; Offer 62. &#x5706;&#x5708;&#x4e2d;&#x6700;&#x540e;&#x5269;&#x4e0b;&#x7684;&#x6570;&#x5b57;.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
          name = "day23">
          <FileRef
             location = "group:&#x5251;&#x6307; Offer 39. &#x6570;&#x7ec4;&#x4e2d;&#x51fa;&#x73b0;&#x6b21;&#x6570;&#x8d85;&#x8fc7;&#x4e00;&#x534a;&#x7684;&#x6570;&#x5b57;.playground">
