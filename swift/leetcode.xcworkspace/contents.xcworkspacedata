@@ -40,6 +40,13 @@
       name = "&#x5251;&#x6307; Offer">
       <Group
          location = "container:"
+         name = "day26">
+         <FileRef
+            location = "group:&#x5251;&#x6307; Offer 67. &#x628a;&#x5b57;&#x7b26;&#x4e32;&#x8f6c;&#x6362;&#x6210;&#x6574;&#x6570;.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "container:"
          name = "day24">
          <FileRef
             location = "group:&#x5251;&#x6307; Offer 14- I. &#x526a;&#x7ef3;&#x5b50;.playground">
@@ -60,18 +67,10 @@
       </Group>
       <Group
          location = "container:"
-         name = "day22">
-      </Group>
-      <Group
-         location = "container:"
          name = "day21">
          <FileRef
             location = "group:&#x5251;&#x6307; Offer 15. &#x4e8c;&#x8fdb;&#x5236;&#x4e2d;1&#x7684;&#x4e2a;&#x6570;.playground">
          </FileRef>
-      </Group>
-      <Group
-         location = "container:"
-         name = "day20">
       </Group>
       <Group
          location = "container:"
@@ -281,9 +280,6 @@
             location = "group:&#x5251;&#x6307; Offer 30. &#x5305;&#x542b;min&#x51fd;&#x6570;&#x7684;&#x6808;.playground">
          </FileRef>
       </Group>
-      <FileRef
-         location = "group:&#x5251;&#x6307; Offer 67. &#x628a;&#x5b57;&#x7b26;&#x4e32;&#x8f6c;&#x6362;&#x6210;&#x6574;&#x6570;.playground">
-      </FileRef>
    </Group>
    <Group
       location = "container:"
