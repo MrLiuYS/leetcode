@@ -5,7 +5,7 @@
 class Solution {
     func getHint(_ secret: String, _ guess: String) -> String {
         var a = 0, b = 0
-        let ascii0 = Int(Character("0").asciiValue!)
+        let ascii0 = Int("0")
         var nums = Array(repeating: 0, count: 10)
 
         for (c1, c2) in zip(secret, guess) {
@@ -13,8 +13,8 @@ class Solution {
             if c1 == c2 {
                 a += 1
             } else {
-                let i = Int(c1.asciiValue!) - ascii0
-                let j = Int(c2.asciiValue!) - ascii0
+                let i = Int(c1.description)! - ascii0!
+                let j = Int(c2.description)! - ascii0!
 
                 if nums[i] < 0 {
                     b += 1
