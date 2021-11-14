@@ -522,5 +522,8 @@
       <FileRef
          location = "group:520. &#x68c0;&#x6d4b;&#x5927;&#x5199;&#x5b57;&#x6bcd;.playground">
       </FileRef>
+      <FileRef
+         location = "group:677. &#x952e;&#x503c;&#x6620;&#x5c04;.playground">
+      </FileRef>
    </Group>
 </Workspace>
