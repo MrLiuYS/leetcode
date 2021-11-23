@@ -704,6 +704,27 @@
 			<key>orderHint</key>
 			<integer>85</integer>
 		</dict>
+		<key>859. 亲密字符串 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>139</integer>
+		</dict>
+		<key>859. 亲密字符串 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>140</integer>
+		</dict>
+		<key>859. 亲密字符串 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>138</integer>
+		</dict>
 		<key>867. 转置矩阵 (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
