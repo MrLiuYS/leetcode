@@ -67,4 +67,4 @@ let node2 = TreeNode(2, node1, node3)
 let node7 = TreeNode(7)
 let node4 = TreeNode(4, node2, node7)
 
-print(Solution().searchBST(node4, 2)?.val)
+print(Solution().searchBST(node4, 2)?.val as Any)
