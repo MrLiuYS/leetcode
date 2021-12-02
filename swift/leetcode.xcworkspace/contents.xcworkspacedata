@@ -588,5 +588,8 @@
       <FileRef
          location = "group:3. &#x65e0;&#x91cd;&#x590d;&#x5b57;&#x7b26;&#x7684;&#x6700;&#x957f;&#x5b50;&#x4e32; .playground">
       </FileRef>
+      <FileRef
+         location = "group:1005. K &#x6b21;&#x53d6;&#x53cd;&#x540e;&#x6700;&#x5927;&#x5316;&#x7684;&#x6570;&#x7ec4;&#x548c; .playground">
+      </FileRef>
    </Group>
 </Workspace>
