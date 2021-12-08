@@ -1,12 +1,7 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
-
-import Foundation
-
+/**
+ 689. 三个无重叠子数组的最大和
+ https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+ */
 
 class Solution {
     func maxSumOfThreeSubarrays(_ nums: [Int], _ k: Int) -> [Int] {
