@@ -7,16 +7,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "DBE5C78B-C6C1-48ED-BC01-8CDE2DF0C813"
+            uuid = "745D8F90-1D1C-43E0-AEAB-6D62212767D3"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "leetcode-line-tool/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
-            landmarkName = "maxSumOfThreeSubarrays(_:_:)"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "q(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -1,11 +1,7 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
-
-import Foundation
+/**
+ 911. 在线选举
+ https://leetcode-cn.com/problems/online-election/
+ */
 
 class TopVotedCandidate {
     // 预排序好的结果
