@@ -1,11 +1,7 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
-
-import Foundation
+/**
+ 630. 课程表 III
+ https://leetcode-cn.com/problems/course-schedule-iii/
+ */
 
 class Solution {
     func scheduleCourse(_ courses: [[Int]]) -> Int {
