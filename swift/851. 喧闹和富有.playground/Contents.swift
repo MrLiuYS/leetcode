@@ -1,11 +1,8 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
+/**
+ 851. 喧闹和富有
+ https://leetcode-cn.com/problems/loud-and-rich/
+ */
 
-import Foundation
 
 class Solution {
     func loudAndRich(_ richer: [[Int]], _ quiet: [Int]) -> [Int] {
