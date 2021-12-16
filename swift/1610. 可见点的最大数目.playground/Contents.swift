@@ -1,9 +1,7 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
+/**
+ 1610. 可见点的最大数目
+ https://leetcode-cn.com/problems/maximum-number-of-visible-points/
+ */
 
 import Foundation
 
