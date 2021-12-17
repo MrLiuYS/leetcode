@@ -1,11 +1,7 @@
-//
-//  main.swift
-//  leetcode-line-tool
-//
-//  Created by 刘永生 on 2021/8/26.
-//
-
-import Foundation
+/**
+ 1518. 换酒问题
+ https://leetcode-cn.com/problems/water-bottles/
+ */
 
 class Solution {
     func numWaterBottles(_ numBottles: Int, _ numExchange: Int) -> Int {
@@ -33,3 +29,4 @@ class Solution {
 }
 
 print(Solution().numWaterBottles(9, 3))
+
